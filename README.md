@@ -15,4 +15,6 @@ Um mit der App zu arbeiten.
 4. Beispiel DB Dump (geschichtswerkstatt.sql) einspielen
 
 Nun müsste es laufen...
-Dann kann man Beiträge löschen und Eigene einspielen
+Dann kann man Beiträge löschen und Eigene einspielen.
+
+Demo bzw. Orginal Applikation unter: http://geschichtswerkstatt.brandis.eu/
