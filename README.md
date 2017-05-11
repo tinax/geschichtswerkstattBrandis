@@ -5,14 +5,19 @@ Benutzt als Backend Wordpress (V 4.6.1)
 Beiträge werden zum Einen auf einer Leaflet Map + Zeitleiste dargestellt.
 Ausserdem gibt es eine Listenansicht.
 
-Um mit der App zu arbeiten.
+Um mit der App zu arbeiten:
 
 1. Wordpress installieren
-2. Plugins installieren
+  - Download der Wordpress Version 4.6.1 (https://wordpress.org/download/release-archive/)
+  - Installation nach folgender Anleitung:
+    https://www.blogaufbau.de/wordpress-installieren-in-5-minuten/
+2. "Brandis"-Theme über FTP in das entsprechende Wordpress-Verzeichnis (/wp-content/themes) laden 
+3. Plugins über FTP in das entsprechende Wordpress-Verzeichnis (/wp-content/plugins) laden 
+4. Plugins in WordPress installieren & aktivieren --> SCREENSHOT
   - advanced-custom-fields-pro lizensieren!
   - Google Api Key für WP-Geo holen!
-3. Theme "Brandis" aktivieren
-4. Beispiel DB Dump (geschichtswerkstatt.sql) einspielen
+5. Theme "Brandis" aktivieren --> SCREENSHOT
+6. Beispiel DB-Dump (geschichtswerkstatt.sql) einspielen --> SCREENSHOT
 
 Nun müsste es laufen...
 Dann kann man Beiträge löschen und Eigene einspielen.
