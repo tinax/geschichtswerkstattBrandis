@@ -12,12 +12,15 @@ Um mit der App zu arbeiten:
   - Installation nach folgender Anleitung:
     https://www.blogaufbau.de/wordpress-installieren-in-5-minuten/
 2. "Brandis"-Theme über FTP in das entsprechende Wordpress-Verzeichnis (/wp-content/themes) laden 
-3. Plugins über FTP in das entsprechende Wordpress-Verzeichnis (/wp-content/plugins) laden 
+3. Alle Plugins über FTP in das entsprechende Wordpress-Verzeichnis (/wp-content/plugins) laden 
 4. Plugins in WordPress installieren & aktivieren --> SCREENSHOT
+  Zu installierende Plugins: Advanced Custom Flieds Pro, Custom Post Type UI, Mobble, WP-Geo, WP Migrate DB
   - advanced-custom-fields-pro lizensieren!
   - Google Api Key für WP-Geo holen!
-5. Theme "Brandis" aktivieren --> SCREENSHOT
-6. Beispiel DB-Dump (geschichtswerkstatt.sql) einspielen --> SCREENSHOT
+5. Theme "Brandis" aktivieren
+6. Beispiel DB-Dump (geschichtswerkstatt.sql) einspielen
+  
+    ---> SCREENSHOT
 
 Nun müsste es laufen...
 Dann kann man Beiträge löschen und Eigene einspielen.
