@@ -33,14 +33,14 @@ Um mit der App zu arbeiten:
   - advanced-custom-fields-pro lizensieren!
   - Google Api Key für WP-Geo holen!
 
-![](WordpressPlugins.jpg)
+![](WordpressPlugins.JPG)
 
 (So sollte die Pluginübersicht anschließend aussehen (OHNE Address Geocoder und JSON API) )
 
   
 5. Theme "Brandis" in Wordpress aktivieren
 
-![](WordpressTheme.jpg)
+![](WordpressTheme.JPG)
 
 (Aktiviertes Brandis-Theme)
 
